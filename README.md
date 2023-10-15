@@ -19,7 +19,7 @@ Right: Player uses their finger to interact with each AR object shown and will s
 <img width="330" alt="flask 2" src="https://github.com/magichampz/Agent-ARnold/assets/91732309/cdd09a6c-fad2-4bba-836f-bcb569c1fe27">
 
 
-#### Level 3: 
+#### Level 3: Petri Dish challenges
 Players use their fingers to point towards the correct augmented reality object in real life to answer questions
 ![petridish1](https://github.com/magichampz/Agent-ARnold/assets/91732309/e303a645-75a1-4dec-8597-5a384194488e)
 
