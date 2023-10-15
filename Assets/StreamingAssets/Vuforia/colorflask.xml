@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QCARConfig>
+    <Tracking>
+        <ModelTarget name="colorflask" trackingMode="car" motionHint="adaptive" upVector="0.0 0.0 1.0" optimizeTrackingFor="default"></ModelTarget>
+    </Tracking>
+    <Assembly name="colorflask" assemblyId="d028babf1e254519b0c9fb8aff15cd2a">
+        <Part name="colorflask" translation="0 0 0" rotation="AD: 0 0 1 0"></Part>
+        <EntryPoint name="(none)" trained="yes"></EntryPoint>
+    </Assembly>
+</QCARConfig>

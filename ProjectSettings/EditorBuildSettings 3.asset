@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: f415ec3ec189343b3b4ddfbd00371a90
+  - enabled: 1
+    path: Assets/Scenes/subject/subject.unity
+    guid: 1ecaf3321a8211d49aad19bfe61620be
+  - enabled: 1
+    path: Assets/Scenes/subject/Science/Science level.unity
+    guid: 725496bafe5c5844b838f5061eb195f7
+  - enabled: 1
+    path: Assets/Scenes/subject/Science/Level 3/Q1/Flask 1.unity
+    guid: 0a738d193fc5b44cc8b04152bc1f993b
+  - enabled: 1
+    path: Assets/Scenes/subject/Science/Level 3/Q1/Flask 2.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/subject/Science/Level 3/Q1/Flask 3.unity
+    guid: 365c223c17eb94316a66e09642390760
+  - enabled: 1
+    path: Assets/Scenes/subject/Science/Level 3/Q2/material1.unity
+    guid: 1ede0870a6b9a144b8b55c448a3e3247
+  - enabled: 1
+    path: Assets/Scenes/subject/Science/Level 3/Q3/state.unity
+    guid: 4b2d4ea5c768c284e9c7ceef68a35502
+  - enabled: 1
+    path: Assets/Scenes/subject/Science/Level 3/Q5/explosion scene.unity
+    guid: 358072049b331554bbe6772cb4c6e002
+  - enabled: 1
+    path: Assets/Scenes/subject/Science/Level 3/Q5/END OF SESSION.unity
+    guid: ff409ff3308c80e4aa770a0e8d87282b
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/subject/Science/science level new.unity
+    guid: 34c4f45000eff9b4b91ca90321a9c8cf
+  - enabled: 0
+    path: Assets/Scenes/subject/Science/Level 3/welcome level 3.unity
+    guid: 4b5176ea40809b444895cfef8488cb98
+  - enabled: 0
+    path: Assets/Scenes/subject/Science/Level 1/welcome level 1.unity
+    guid: 4582d9a0883f80949903c38ae37972b5
+  - enabled: 0
+    path: Assets/Scenes/subject/Science/level 2/welcome level 2.unity
+    guid: d5bbfcb38919a7e499e908bcbf443a57
+  - enabled: 0
+    path: Assets/Scenes/subject/English/level 1/Q1/spelling 2.unity
+    guid: f305a0085c4b5294e90125810c423f79
+  - enabled: 0
+    path: Assets/Scenes/subject/English/level 1/Q1/spelling 3.unity
+    guid: 306ec61641fdcf745857b92c323d003d
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ecff790424a3bcf4b8aa25892794d414,
+      type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 89a6d18d3df8d3e4fa917b0f9a963bc0,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: de8a8e4f987434338a4b1062feb8d069,
+      type: 2}
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: c2f7b8d7c0bff4d10874cbcf3f24af78,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: b27ec7d82a91a48e69fd689ad6808e5e,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58f40b12bbc864f3c96c6505a9a1e1e3,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 6bb381a8ba31f114d9724357633b4625,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 41632e353298e984fadc61a4c3d25386,
+      type: 2}

@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/subject/Science/Level 1/snail scenes/Snail 0 intro.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Astronaut_scaled" size="0.087000 0.150273" />
+    <ImageTarget name="herart_3" size="0.046000 0.057500" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.ptc.vuforia.engine": {
+      "tarball": {
+        "hash": "c4d4273eb1b9",
+        "mtime": 1686071232219,
+        "size": 139841647,
+        "localPath": "/Users/aveek/Desktop/DAPP year 2/unity/ZiyaoDong/Packages/com.ptc.vuforia.engine-10.15.4.tgz"
+      }
+    }
+  }
+}

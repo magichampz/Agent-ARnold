@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v5.7.6">
+        <ModelTarget name="colorflask" targetId="52be699214df4f748f0165bef70101e2" version="13.0" toolVersion="v5.7.6" bbox="-0.058159 -0.058167 -0.000088 0.058177 0.058169 0.180088" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="colorflask" assemblyId="d028babf1e254519b0c9fb8aff15cd2a">
+        <Part name="colorflask" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

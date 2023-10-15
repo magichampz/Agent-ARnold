@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="petridish-QR" size="1.000000 1.000000" />
+    <ImageTarget name="snailQR-cropped" size="2.000000 2.000000" />
+    <ImageTarget name="snail-text" size="1.000000 1.167545" />
+    <ImageTarget name="snail" size="1.000000 0.905492" />
+    <ImageTarget name="level-2-snail" size="5.000000 3.514151" />
+    <ImageTarget name="gardenReal" size="0.200000 0.140018" />
+    <ImageTarget name="garden" size="0.200000 0.138356" />
+  </Tracking>
+</QCARConfig>
