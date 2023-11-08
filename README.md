@@ -38,4 +38,5 @@ Level 3: Players drag the correct option using their hand to touch the AR object
 <br>
 <br>
 
-Check out my medium article for more info on the project, including a video demonstration. The version control for this project was managed using plasticSCM, which is optimised for mixed reality development in unity. The software development for the project was done in collaboration with Michael Ma and Ziyao Dong. 
+Check out my medium article for more info on the project, including a video demonstration: https://medium.com/@aveekgoswami/agent-arnold-an-augmented-reality-game-for-children-with-cerebral-palsy-8515734a3206
+The version control for this project was managed using plasticSCM, which is optimised for mixed reality development in unity. The software development for the project was done in collaboration with Michael Ma and Ziyao Dong. 
